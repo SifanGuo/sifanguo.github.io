@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Diploma Mill</title>
+</head>
+<body>
+<div><p>Please complete this form to get your certificate:<br>
+<i>Note: Currently, we could only offer certificates for courses that end before Feb 3th 2018</i>
+</p>
+
+<form action = "diploma_mill.php" method="post">
+<p>
+Name: <input type="text"  name="name" required>
+
+</p>
+
+<p>
+Choose the course that you've taken:
+
+<select name="course" required>
+<option value="Database Management-WB">Database Management-WB</option>
+<option value="Peer Production">Peer Production</option>
+<option value="Perspective on Information">Perspective on Information</option>
+<option value="PHP for the Web">PHP for the Web</option>
+<option value="Introduction to ETH">Introduction to ETH</option>
+<option value="Distributed systems">Distributed systems</option>
+</select>
+</p>
+
+<p>
+The date of the class:<input type="date" name="date" size="22"
+ min="2000-01-01" max="2018-02-03"required>
+</p>
+
+<input type="submit" name="submit" value="Done">
+
+</form>
+</div>
+</body>
+</html>
+

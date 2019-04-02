@@ -9,9 +9,6 @@ permalink: /links/
 
 
 
-=====================
-[Meng Zhang](https://zmcmcc.github.io/)
++ [Meng Zhang](https://zmcmcc.github.io/)
 
-
-=====================
-[Shang Zeng](https://blog.qaq.io/)
++ [Shang Zeng](https://blog.qaq.io/)

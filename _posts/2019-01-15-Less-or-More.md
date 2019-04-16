@@ -2,8 +2,8 @@
 layout: post
 title:  "Less or More"
 date:   2019-01-15 23:15:21 +0800
-categories: jekyll
-tag: jekyll
+categories: short
+tag: thinking
 ---
 
 * content

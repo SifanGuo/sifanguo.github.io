@@ -2,8 +2,8 @@
 layout: post
 title:  "Why I should write"
 date:   2019-01-17 13:25:52 +0800
-categories: jekyll
-tag: jekyll
+categories: short
+tag: thinking
 ---
 
 * content

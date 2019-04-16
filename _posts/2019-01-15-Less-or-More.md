@@ -16,8 +16,6 @@ Talk less and write more.
 Why a Blog?				{#Sifan}
 ------------------------
 
-![诫子书]({{ 'https://ptpimg.me/9hfka6.png}})
-
 
 [Sifan](#)
 
